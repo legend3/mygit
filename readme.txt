@@ -13,3 +13,5 @@ no-off test
 modify again,and merge master.
 again!again!again!
 ALL ALL again!
+
+Creating a new branch is quick and simple again!
